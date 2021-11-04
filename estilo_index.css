@@ -2,5 +2,11 @@ div{
     background-color: rgb(102, 102, 238);
     margin: 10px;
     font-family: 'Courier New', Courier, monospace;
-    border:2px  solid rgb(150, 173, 241);
+    border:2px  solid rgb(136, 162, 243);
+}
+h2#principal{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: springgreen;
+    color: white;
 }
