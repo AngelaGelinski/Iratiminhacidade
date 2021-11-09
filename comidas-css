@@ -1,0 +1,6 @@
+div{
+     background-color: rgb(26, 26, 224);
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    border:2px  solid rgb(140, 166, 243);
+}

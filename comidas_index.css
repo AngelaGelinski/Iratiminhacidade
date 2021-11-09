@@ -1,0 +1,12 @@
+div{
+    background-color: rgb(116, 116, 233);
+   margin: 10px;
+   font-family: 'Courier New', Courier, monospace;
+   border:2px  solid rgb(1, 7, 26);
+}
+h2#principal{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(13, 179, 96);
+    color: white;
+}
