@@ -10,3 +10,9 @@ h2#principal{
     background-color: rgb(13, 179, 96);
     color: white;
 }
+h1#secundario{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(21, 155, 88);
+    color: white;
+}
