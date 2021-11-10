@@ -20,3 +20,16 @@ h3#principal{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
+h1#principal{
+    color: rgb(77, 228, 152);
+    background-color: white;
+    border: 2px solid rgb(79, 79, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.pseudo>span{
+    display:none;
+}
+.pseudo:hover>span{
+    display: block;
+}
