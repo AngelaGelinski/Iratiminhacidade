@@ -16,3 +16,12 @@ h1#secundario{
     background-color: rgb(21, 155, 88);
     color: white;
 }
+div.agrupamento{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    background-color: rgb(176, 230, 122);
+    border: 2px solid rgb(3, 3, 75);
+    margin: 10px;
+    padding:20px
+
+}
